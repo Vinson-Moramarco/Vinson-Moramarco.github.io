@@ -14,6 +14,8 @@ header {
     background-color: #0041ce;
     margin-bottom: 10px;
     padding: 10px;
+    text-align: center;
+
 }
 
 nav {
@@ -36,6 +38,8 @@ article {
     background-color: #0077ff;
     margin-bottom: 10px;
     padding: 10px;
+    text-align: center;
+
 }
 
 article img {
@@ -51,7 +55,7 @@ footer {
 }
 
 img {
-    height: 150px;
+    height: auto;
     width: auto;
 }
 
@@ -62,3 +66,4 @@ ul a {
     padding: 5px;
     color: rgb(16, 107, 107);
 }
+footer article img {border: 7px solid rgb(15, 126, 15);}
