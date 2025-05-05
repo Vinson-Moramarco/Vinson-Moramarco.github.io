@@ -67,3 +67,5 @@ ul a {
     color: rgb(16, 107, 107);
 }
 footer article img {border: 7px solid rgb(15, 126, 15);}
+.minecraft {background-color: rgb(50, 154, 32); border: solid 5px rgb(11, 86, 37);}
+article .terraria {background-color: rgb(50, 154, 32); border: solid 5px rgb(11, 86, 37);}
